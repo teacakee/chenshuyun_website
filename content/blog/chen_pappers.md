@@ -4,8 +4,9 @@ title = "探討微衛星染色體標誌在維管束植物的保留性及其在�
 date = "2012-07-24"
 description = "Conservation of microsatellites in vascular plant and their application in genetic diversity analysis"
 tags = [
-    "",
-]
+    "",]
+
+image = "img/slide/slide01.jpg"
 +++
 
 

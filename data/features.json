@@ -1,17 +1,19 @@
 [
   {
     "title": "Courses 課程資訊",
-    "description": "Search for courses, materials & teaching resources 課程資源在這邊",
+    "description": "Courses, materials & teaching resources.",
     "icon": "icon-desktop_windows"
+    
   },
   {
     "title": "News 最新消息",
-    "description": "Our news 我們的最新活動",
-    "icon": "icon-lightbulb_outline"
+    "description": "Our news.",
+    "icon": "icon-lightbulb_outline",
+    "link": "http://agro.nchu.edu.tw/"
   },
   {
     "title": "Agro.nchu 中興農藝官網",
-    "description": "NCHU Department of Agronomy Home page. Find more infro here   ",
+    "description": "Department of Agronomy Home page.",
     "icon": "icon-desktop_windows",
     "link": "http://agro.nchu.edu.tw/"
   }
