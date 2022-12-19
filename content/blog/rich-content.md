@@ -7,6 +7,6 @@ tags = [
     "shortcodes",
     
 ]
-image = "img/slide/slide01.jpg"
+image = "img/slide/p1.jpg"
 +++
 
